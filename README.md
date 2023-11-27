@@ -1,4 +1,3 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=First+line+of+text;Second+line+of+text)](https://git.io/typing-svg)
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&pause=1000&color=94C6F0&background=FF81EB00&center=true&vCenter=true&random=false&width=435&lines=hi+I'm+Mobina+Daneshvar)](https://git.io/typing-svg)
 <h3 align="center">A passionate frontend developer from Iran</h3>
 
