@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=hi+I'm+Mobina+Danseshvar;let's+improve+together)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F5E8C7&background=818FB4&center=true&vCenter=true&random=false&width=734&lines=Hi%2C+I'm+Mobina+Daneshvar;let's+improve+together)](https://git.io/typing-svg)
 <h3 align="center">A passionate frontend developer from Iran</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mobinadanshvarweb&label=Profile%20views&color=0e75b6&style=flat" alt="mobinadanshvarweb" /> </p>
