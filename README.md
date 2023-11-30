@@ -35,14 +35,4 @@
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mobinadanshvarweb&" alt="mobinadanshvarweb" /></p>
 
 
-<p align="center">
- <a href="https://github.com/nimanikoo">
-  <img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs?username=mobinadanshvarweb&show_icons=true&locale=en&layout=compact" alt="mobinadanshvarweb" />
-  <img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nimanikoo&layout=compact&theme=material-palenight&langs_count=12" />
-  <img height="100%" wdith="100%" src="https://github-readme-stats.vercel.app/api?username=mobinadanshvarweb&show_icons=true&locale=en" alt="mobinadanshvarweb" />
- </a>
- 
-  <a>
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mobinadanshvarweb&" alt="mobinadanshvarweb" />
-  </a>
-</p>
+
