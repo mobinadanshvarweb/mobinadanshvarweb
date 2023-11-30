@@ -2,7 +2,6 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=96B6C5&height=300&section=header&text=Mobina%20Daneshvar&fontSize=90&animation=fadeIn&fontAlignY=38&desc=Hey%20I'm%20mowin%20let's%20improve%20together%20&descAlignY=61&descAlign=52)
 
 <img align="right" alt="GIF" height="150px" src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" />
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=mobinadanshvarweb&label=Profile%20views&color=0e75b6&style=flat" alt="mobinadanshvarweb" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mobinadanshvarweb" alt="mobinadanshvarweb" /></a> </p>
 
