@@ -6,11 +6,9 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mobinadanshvarweb" alt="mobinadanshvarweb" /></a> </p>
 
-- 👨‍💻 All of my projects are available at [https://github.com/mobinadanshvarweb](https://github.com/mobinadanshvarweb)
 
 - 💬 Ask me about **react,JS,BS,CSS3,HTML5,TW**
 
-- 📫 How to reach me **mobinadanshvar@gmail.com**
 #### You can find me on:
 <p align="center">
  <a href="https://www.linkedin.com/in/mobina-daneshvar-376dj" target="_blank">
@@ -35,3 +33,16 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mobinadanshvarweb&show_icons=true&locale=en" alt="mobinadanshvarweb" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mobinadanshvarweb&" alt="mobinadanshvarweb" /></p>
+
+
+<p align="center">
+ <a href="https://github.com/nimanikoo">
+  <img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs?username=mobinadanshvarweb&show_icons=true&locale=en&layout=compact" alt="mobinadanshvarweb" />
+  <img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nimanikoo&layout=compact&theme=material-palenight&langs_count=12" />
+  <img height="100%" wdith="100%" src="https://github-readme-stats.vercel.app/api?username=mobinadanshvarweb&show_icons=true&locale=en" alt="mobinadanshvarweb" />
+ </a>
+ 
+  <a>
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mobinadanshvarweb&" alt="mobinadanshvarweb" />
+  </a>
+</p>
