@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=f63636&height=400&section=header&text=mobina%20daneshvar&fontSize=90&animation=fadeIn&fontAlignY=38&desc=Hi%20im%20Mobina%20let's%20improve%20together%20!&descAlignY=51&descAlign=62)
+![header](https://capsule-render.vercel.app/api?type=waving&color=B6BBC4&height=400&section=header&text=Mobina%20Daneshvar&fontSize=90&animation=fadeIn&fontAlignY=38&desc=Hey%20I'm%20mowin%20let's%20improve%20together%20!&descAlignY=51&descAlign=62)
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=800&size=26&pause=1000&color=F5E8C7&background=818FB4&center=true&vCenter=true&random=false&width=1005&height=115&lines=Hi%2C+I'm+Mobina+Daneshvar;let's+improve+together)](https://git.io/typing-svg)
 <h3 align="center">A passionate frontend developer from Iran</h3>
