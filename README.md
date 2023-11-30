@@ -1,6 +1,6 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=800&size=26&pause=1000&color=F5E8C7&background=818FB4&center=true&vCenter=true&random=false&width=1005&height=115&lines=Hi%2C+I'm+Mobina+Daneshvar;let's+improve+together)](https://git.io/typing-svg)
 <h3 align="center">A passionate frontend developer from Iran</h3>
-
+<img align="right" alt="GIF" height="160px" src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" />
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mobinadanshvarweb&label=Profile%20views&color=0e75b6&style=flat" alt="mobinadanshvarweb" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mobinadanshvarweb" alt="mobinadanshvarweb" /></a> </p>
