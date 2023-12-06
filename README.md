@@ -1,5 +1,6 @@
 
 ![header](https://capsule-render.vercel.app/api?type=waving&color=96B6C5&height=300&section=header&text=Mobina%20Daneshvar&fontSize=90&animation=fadeIn&fontAlignY=38&desc=Hey%20I'm%20mowin%20let's%20improve%20together%20&descAlignY=61&descAlign=52)
+<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="40"> <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b></em>
 
 <img align="right" alt="GIF" height="150px" src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" />
 
